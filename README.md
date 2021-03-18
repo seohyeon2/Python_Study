@@ -1,7 +1,108 @@
 # Python_Study
 * 코딩테스트를 위한 파이썬 문법 공부
 * Python Grammar Study for Coding Test
-***
-### 개발 환경 ( Development Environment )
+<br>
+
+## 개발 환경 ( Development Environment )
 ##### &nbsp; :wrench: Visual Studio Code
 ##### &nbsp; :wrench: Python 3.9.2 for Mac OS
+
+<br>
+
+## 문법 (Grammar)
+
+### 1. 자료형과 변수
+#### &nbsp; &nbsp; &nbsp; 1-1. &nbsp; 숫자 자료형
+#### &nbsp; &nbsp; &nbsp; 1-2. &nbsp; 문자 자료형
+#### &nbsp; &nbsp; &nbsp; 1-3. &nbsp; boolean 자료형
+#### &nbsp; &nbsp; &nbsp; 1-4. &nbsp; 변수
+#### &nbsp; &nbsp; &nbsp; 1-5. &nbsp; 주석
+
+<br>
+
+### 2. 연산
+#### &nbsp; &nbsp; &nbsp; 2-1. &nbsp; 연산자
+#### &nbsp; &nbsp; &nbsp; 2-2. &nbsp; 간단한 수식
+#### &nbsp; &nbsp; &nbsp; 2-3. &nbsp; 숫자처리함수
+#### &nbsp; &nbsp; &nbsp; 2-4. &nbsp; 랜덤함수
+
+<br>
+
+### 3. 문자열
+#### &nbsp; &nbsp; &nbsp; 3-1. &nbsp; 문자열
+#### &nbsp; &nbsp; &nbsp; 3-2. &nbsp; 슬라이싱
+#### &nbsp; &nbsp; &nbsp; 3-3. &nbsp; 문자열처리함수
+#### &nbsp; &nbsp; &nbsp; 3-4. &nbsp; 문자열포맷
+#### &nbsp; &nbsp; &nbsp; 3-5. &nbsp; 탈출문법
+#### &nbsp; &nbsp; &nbsp; 3-6. &nbsp; 랜덤함수
+
+<br>
+
+### 4. 리스트, 사전, 튜플
+#### &nbsp; &nbsp; &nbsp; 4-1. &nbsp; 리스트
+#### &nbsp; &nbsp; &nbsp; 4-2. &nbsp; 사전
+#### &nbsp; &nbsp; &nbsp; 4-3. &nbsp; 튜플
+#### &nbsp; &nbsp; &nbsp; 3-4. &nbsp; 세트
+#### &nbsp; &nbsp; &nbsp; 3-5. &nbsp; 자료구조의 변경
+
+<br>
+
+### 5. 조건문
+#### &nbsp; &nbsp; &nbsp; 5-1. &nbsp; if문
+#### &nbsp; &nbsp; &nbsp; 5-2. &nbsp; for문
+#### &nbsp; &nbsp; &nbsp; 5-3. &nbsp; while문
+#### &nbsp; &nbsp; &nbsp; 5-4. &nbsp; continue 와 break
+#### &nbsp; &nbsp; &nbsp; 5-5. &nbsp; 한줄 for문
+
+
+<br>
+
+### 6. 함수
+#### &nbsp; &nbsp; &nbsp; 6-1. &nbsp; 힘수
+#### &nbsp; &nbsp; &nbsp; 6-2. &nbsp; 전달값과 반환값
+#### &nbsp; &nbsp; &nbsp; 6-3. &nbsp; 기본값
+#### &nbsp; &nbsp; &nbsp; 6-4. &nbsp; 키워드값
+#### &nbsp; &nbsp; &nbsp; 6-5. &nbsp; 가변인자
+#### &nbsp; &nbsp; &nbsp; 6-6. &nbsp; 지역변수와 전역변수
+
+<br>
+
+### 7. 입출력
+#### &nbsp; &nbsp; &nbsp; 7-1. &nbsp; 표준입출력
+#### &nbsp; &nbsp; &nbsp; 7-2. &nbsp; 다양한 출력포맷
+#### &nbsp; &nbsp; &nbsp; 7-3. &nbsp; 파일입출력
+#### &nbsp; &nbsp; &nbsp; 7-4. &nbsp; pickle
+#### &nbsp; &nbsp; &nbsp; 7-5. &nbsp; with
+
+<br>
+
+### 8. 클래스
+#### &nbsp; &nbsp; &nbsp; 8-1. &nbsp; 클래스
+#### &nbsp; &nbsp; &nbsp; 8-2. &nbsp; _intit_
+#### &nbsp; &nbsp; &nbsp; 8-3. &nbsp; 멤버변수
+#### &nbsp; &nbsp; &nbsp; 8-4. &nbsp; 메소드
+#### &nbsp; &nbsp; &nbsp; 8-5. &nbsp; 상속
+#### &nbsp; &nbsp; &nbsp; 8-6. &nbsp; 다중상속
+#### &nbsp; &nbsp; &nbsp; 8-7. &nbsp; 메소드 오버라이딩
+#### &nbsp; &nbsp; &nbsp; 8-8. &nbsp; pass
+#### &nbsp; &nbsp; &nbsp; 8-9. &nbsp; super
+
+<br>
+
+### 9. 예외처리
+#### &nbsp; &nbsp; &nbsp; 9-1. &nbsp; 예외처리
+#### &nbsp; &nbsp; &nbsp; 9-2. &nbsp; 에러 발생시키기
+#### &nbsp; &nbsp; &nbsp; 9-3. &nbsp; 사용자 정의 예외처리
+#### &nbsp; &nbsp; &nbsp; 9-4. &nbsp; finally
+
+<br>
+
+### 10. 모듈
+#### &nbsp; &nbsp; &nbsp; 10-1. &nbsp; 모듈
+#### &nbsp; &nbsp; &nbsp; 10-2. &nbsp; 패키지
+#### &nbsp; &nbsp; &nbsp; 10-3. &nbsp; _all_
+#### &nbsp; &nbsp; &nbsp; 10-4. &nbsp; 모듈 직접 실행
+#### &nbsp; &nbsp; &nbsp; 10-5. &nbsp; 패키지, 모듈 위치
+#### &nbsp; &nbsp; &nbsp; 10-6. &nbsp; pip install
+#### &nbsp; &nbsp; &nbsp; 10-7. &nbsp; 내장함수
+#### &nbsp; &nbsp; &nbsp; 10-8. &nbsp; 외장함수
