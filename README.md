@@ -15,8 +15,7 @@
 #### &nbsp; &nbsp; &nbsp; 1-1. &nbsp; 숫자 자료형
 #### &nbsp; &nbsp; &nbsp; 1-2. &nbsp; 문자 자료형
 #### &nbsp; &nbsp; &nbsp; 1-3. &nbsp; boolean 자료형
-#### &nbsp; &nbsp; &nbsp; 1-4. &nbsp; 변수
-#### &nbsp; &nbsp; &nbsp; 1-5. &nbsp; 주석
+#### &nbsp; &nbsp; &nbsp; 1-4. &nbsp; 변수와 주석
 
 <br>
 
