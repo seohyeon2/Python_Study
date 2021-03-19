@@ -33,7 +33,6 @@
 #### &nbsp; &nbsp; &nbsp; 3-3. &nbsp; [문자열처리함수](3/practice3.py)
 #### &nbsp; &nbsp; &nbsp; 3-4. &nbsp; [문자열포맷](3/practice4.py)
 #### &nbsp; &nbsp; &nbsp; 3-5. &nbsp; [탈출문법](3/practice5.py)
-#### &nbsp; &nbsp; &nbsp; 3-6. &nbsp; [랜덤함수](3/practice6.py)
 
 <br>
 
