@@ -65,12 +65,12 @@
 
 <br>
 
-### 7. 입출력
-#### &nbsp; &nbsp; &nbsp; 7-1. &nbsp; 표준입출력
-#### &nbsp; &nbsp; &nbsp; 7-2. &nbsp; 다양한 출력포맷
-#### &nbsp; &nbsp; &nbsp; 7-3. &nbsp; 파일입출력
-#### &nbsp; &nbsp; &nbsp; 7-4. &nbsp; pickle
-#### &nbsp; &nbsp; &nbsp; 7-5. &nbsp; with
+### 7. [입출력](./7)
+#### &nbsp; &nbsp; &nbsp; 7-1. &nbsp; [표준입출력](7/practice1.py)
+#### &nbsp; &nbsp; &nbsp; 7-2. &nbsp; [다양한 출력포맷](7/practice2.py)
+#### &nbsp; &nbsp; &nbsp; 7-3. &nbsp; [파일입출력](7/practice3.py)
+#### &nbsp; &nbsp; &nbsp; 7-4. &nbsp; [pickle](7/practice4.py)
+#### &nbsp; &nbsp; &nbsp; 7-5. &nbsp; [with](7/practice5.py)
 
 <br>
 
