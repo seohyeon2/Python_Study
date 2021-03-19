@@ -12,7 +12,7 @@
 ## 문법 (Grammar)
 
 ### 1. 자료형과 변수
-#### &nbsp; &nbsp; &nbsp; 1-1. &nbsp; 숫자 자료형
+#### &nbsp; &nbsp; &nbsp; 1-1. &nbsp; [숫자 자료형](./1.자료형과 변수/practice1.py)
 #### &nbsp; &nbsp; &nbsp; 1-2. &nbsp; 문자 자료형
 #### &nbsp; &nbsp; &nbsp; 1-3. &nbsp; boolean 자료형
 #### &nbsp; &nbsp; &nbsp; 1-4. &nbsp; 변수와 주석
