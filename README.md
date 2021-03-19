@@ -12,9 +12,9 @@
 ## 문법 (Grammar)
 
 ### 1. 자료형과 변수
-#### &nbsp; &nbsp; &nbsp; 1-1. &nbsp; [숫자자료형](1/practice1.py)
-#### &nbsp; &nbsp; &nbsp; 1-2. &nbsp; [문자자료형](1/practice2.py)
-#### &nbsp; &nbsp; &nbsp; 1-3. &nbsp; [boolean자료형](1/practice3.py)
+#### &nbsp; &nbsp; &nbsp; 1-1. &nbsp; [숫자 자료형](1/practice1.py)
+#### &nbsp; &nbsp; &nbsp; 1-2. &nbsp; [문자 자료형](1/practice2.py)
+#### &nbsp; &nbsp; &nbsp; 1-3. &nbsp; [boolean 자료형](1/practice3.py)
 #### &nbsp; &nbsp; &nbsp; 1-4. &nbsp; [변수와 주석](1/practice4.py)
 
 <br>
