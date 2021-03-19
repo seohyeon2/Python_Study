@@ -36,32 +36,32 @@
 
 <br>
 
-### 4. 리스트, 사전, 튜플
-#### &nbsp; &nbsp; &nbsp; 4-1. &nbsp; 리스트
-#### &nbsp; &nbsp; &nbsp; 4-2. &nbsp; 사전
-#### &nbsp; &nbsp; &nbsp; 4-3. &nbsp; 튜플
-#### &nbsp; &nbsp; &nbsp; 3-4. &nbsp; 세트
-#### &nbsp; &nbsp; &nbsp; 3-5. &nbsp; 자료구조의 변경
+### 4. [리스트, 사전, 튜플](./4)
+#### &nbsp; &nbsp; &nbsp; 4-1. &nbsp; [리스트](4/practice1.py)
+#### &nbsp; &nbsp; &nbsp; 4-2. &nbsp; [사전](4/practice2.py)
+#### &nbsp; &nbsp; &nbsp; 4-3. &nbsp; [튜플](4/practice3.py)
+#### &nbsp; &nbsp; &nbsp; 4-4. &nbsp; [세트](4/practice4.py)
+#### &nbsp; &nbsp; &nbsp; 4-5. &nbsp; [자료구조의 변경](4/practice5.py)
 
 <br>
 
-### 5. 조건문
-#### &nbsp; &nbsp; &nbsp; 5-1. &nbsp; if문
-#### &nbsp; &nbsp; &nbsp; 5-2. &nbsp; for문
-#### &nbsp; &nbsp; &nbsp; 5-3. &nbsp; while문
-#### &nbsp; &nbsp; &nbsp; 5-4. &nbsp; continue 와 break
-#### &nbsp; &nbsp; &nbsp; 5-5. &nbsp; 한줄 for문
+### 5. [조건문](./5)
+#### &nbsp; &nbsp; &nbsp; 5-1. &nbsp; [if문](5/practice1.py)
+#### &nbsp; &nbsp; &nbsp; 5-2. &nbsp; [for문](5/practice2.py)
+#### &nbsp; &nbsp; &nbsp; 5-3. &nbsp; [while문](5/practice3.py)
+#### &nbsp; &nbsp; &nbsp; 5-4. &nbsp; [continue 와 break](5/practice4.py)
+#### &nbsp; &nbsp; &nbsp; 5-5. &nbsp; [한줄 for문](5/practice5.py)
 
 
 <br>
 
-### 6. 함수
-#### &nbsp; &nbsp; &nbsp; 6-1. &nbsp; 힘수
-#### &nbsp; &nbsp; &nbsp; 6-2. &nbsp; 전달값과 반환값
-#### &nbsp; &nbsp; &nbsp; 6-3. &nbsp; 기본값
-#### &nbsp; &nbsp; &nbsp; 6-4. &nbsp; 키워드값
-#### &nbsp; &nbsp; &nbsp; 6-5. &nbsp; 가변인자
-#### &nbsp; &nbsp; &nbsp; 6-6. &nbsp; 지역변수와 전역변수
+### 6. [함수](./6)
+#### &nbsp; &nbsp; &nbsp; 6-1. &nbsp; [힘수](6/practice1.py)
+#### &nbsp; &nbsp; &nbsp; 6-2. &nbsp; [전달값과 반환값](6/practice2.py)
+#### &nbsp; &nbsp; &nbsp; 6-3. &nbsp; [기본값](6/practice3.py)
+#### &nbsp; &nbsp; &nbsp; 6-4. &nbsp; [키워드값](6/practice4.py)
+#### &nbsp; &nbsp; &nbsp; 6-5. &nbsp; [가변인자](6/practice5.py)
+#### &nbsp; &nbsp; &nbsp; 6-6. &nbsp; [지역변수와 전역변수](6/practice6.py)
 
 <br>
 
