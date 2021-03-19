@@ -11,7 +11,7 @@
 
 ## 문법 (Grammar)
 
-### 1. 자료형과 변수
+### 1. [자료형과 변수](./1)
 #### &nbsp; &nbsp; &nbsp; 1-1. &nbsp; [숫자 자료형](1/practice1.py)
 #### &nbsp; &nbsp; &nbsp; 1-2. &nbsp; [문자 자료형](1/practice2.py)
 #### &nbsp; &nbsp; &nbsp; 1-3. &nbsp; [boolean 자료형](1/practice3.py)
@@ -19,7 +19,7 @@
 
 <br>
 
-### 2. 연산
+### 2. [연산](./2)
 #### &nbsp; &nbsp; &nbsp; 2-1. &nbsp; [연산자](2/practice1.py)
 #### &nbsp; &nbsp; &nbsp; 2-2. &nbsp; [간단한 수식](2/practice2.py)
 #### &nbsp; &nbsp; &nbsp; 2-3. &nbsp; [숫자처리함수](2/practice3.py)
@@ -27,7 +27,7 @@
 
 <br>
 
-### 3. 문자열
+### 3. [문자열](./3)
 #### &nbsp; &nbsp; &nbsp; 3-1. &nbsp; [문자열](3/practice1.py)
 #### &nbsp; &nbsp; &nbsp; 3-2. &nbsp; [슬라이싱](3/practice2.py)
 #### &nbsp; &nbsp; &nbsp; 3-3. &nbsp; [문자열처리함수](3/practice3.py)
