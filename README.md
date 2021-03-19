@@ -12,28 +12,28 @@
 ## 문법 (Grammar)
 
 ### 1. 자료형과 변수
-#### &nbsp; &nbsp; &nbsp; 1-1. &nbsp; [숫자 자료형](./1.자료형과 변수/practice1.py)
-#### &nbsp; &nbsp; &nbsp; 1-2. &nbsp; 문자 자료형
-#### &nbsp; &nbsp; &nbsp; 1-3. &nbsp; boolean 자료형
-#### &nbsp; &nbsp; &nbsp; 1-4. &nbsp; 변수와 주석
+#### &nbsp; &nbsp; &nbsp; 1-1. &nbsp; [숫자자료형](1/practice1.py)
+#### &nbsp; &nbsp; &nbsp; 1-2. &nbsp; [문자자료형](1/practice2.py)
+#### &nbsp; &nbsp; &nbsp; 1-3. &nbsp; [boolean자료형](1/practice3.py)
+#### &nbsp; &nbsp; &nbsp; 1-4. &nbsp; [변수와 주석](1/practice4.py)
 
 <br>
 
 ### 2. 연산
-#### &nbsp; &nbsp; &nbsp; 2-1. &nbsp; 연산자
-#### &nbsp; &nbsp; &nbsp; 2-2. &nbsp; 간단한 수식
-#### &nbsp; &nbsp; &nbsp; 2-3. &nbsp; 숫자처리함수
-#### &nbsp; &nbsp; &nbsp; 2-4. &nbsp; 랜덤함수
+#### &nbsp; &nbsp; &nbsp; 2-1. &nbsp; [연산자](2/practice1.py)
+#### &nbsp; &nbsp; &nbsp; 2-2. &nbsp; [간단한 수식](2/practice2.py)
+#### &nbsp; &nbsp; &nbsp; 2-3. &nbsp; [숫자처리함수](2/practice3.py)
+#### &nbsp; &nbsp; &nbsp; 2-4. &nbsp; [랜덤함수](2/practice4.py)
 
 <br>
 
 ### 3. 문자열
-#### &nbsp; &nbsp; &nbsp; 3-1. &nbsp; 문자열
-#### &nbsp; &nbsp; &nbsp; 3-2. &nbsp; 슬라이싱
-#### &nbsp; &nbsp; &nbsp; 3-3. &nbsp; 문자열처리함수
-#### &nbsp; &nbsp; &nbsp; 3-4. &nbsp; 문자열포맷
-#### &nbsp; &nbsp; &nbsp; 3-5. &nbsp; 탈출문법
-#### &nbsp; &nbsp; &nbsp; 3-6. &nbsp; 랜덤함수
+#### &nbsp; &nbsp; &nbsp; 3-1. &nbsp; [문자열](3/practice1.py)
+#### &nbsp; &nbsp; &nbsp; 3-2. &nbsp; [슬라이싱](3/practice2.py)
+#### &nbsp; &nbsp; &nbsp; 3-3. &nbsp; [문자열처리함수](3/practice3.py)
+#### &nbsp; &nbsp; &nbsp; 3-4. &nbsp; [문자열포맷](3/practice4.py)
+#### &nbsp; &nbsp; &nbsp; 3-5. &nbsp; [탈출문법](3/practice5.py)
+#### &nbsp; &nbsp; &nbsp; 3-6. &nbsp; [랜덤함수](3/practice6.py)
 
 <br>
 
