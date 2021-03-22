@@ -65,25 +65,22 @@
 
 <br>
 
-### 7. 입출력
-#### &nbsp; &nbsp; &nbsp; 7-1. &nbsp; 표준입출력
-#### &nbsp; &nbsp; &nbsp; 7-2. &nbsp; 다양한 출력포맷
-#### &nbsp; &nbsp; &nbsp; 7-3. &nbsp; 파일입출력
-#### &nbsp; &nbsp; &nbsp; 7-4. &nbsp; pickle
-#### &nbsp; &nbsp; &nbsp; 7-5. &nbsp; with
+### 7. [입출력](./7)
+#### &nbsp; &nbsp; &nbsp; 7-1. &nbsp; [표준입출력](7/practice1.py)
+#### &nbsp; &nbsp; &nbsp; 7-2. &nbsp; [다양한 출력포맷](7/practice2.py)
+#### &nbsp; &nbsp; &nbsp; 7-3. &nbsp; [파일입출력](7/practice3.py)
+#### &nbsp; &nbsp; &nbsp; 7-4. &nbsp; [pickle](7/practice4.py)
+#### &nbsp; &nbsp; &nbsp; 7-5. &nbsp; [with](7/practice5.py)
 
 <br>
 
 ### 8. 클래스
 #### &nbsp; &nbsp; &nbsp; 8-1. &nbsp; 클래스
-#### &nbsp; &nbsp; &nbsp; 8-2. &nbsp; _intit_
-#### &nbsp; &nbsp; &nbsp; 8-3. &nbsp; 멤버변수
-#### &nbsp; &nbsp; &nbsp; 8-4. &nbsp; 메소드
-#### &nbsp; &nbsp; &nbsp; 8-5. &nbsp; 상속
-#### &nbsp; &nbsp; &nbsp; 8-6. &nbsp; 다중상속
-#### &nbsp; &nbsp; &nbsp; 8-7. &nbsp; 메소드 오버라이딩
-#### &nbsp; &nbsp; &nbsp; 8-8. &nbsp; pass
-#### &nbsp; &nbsp; &nbsp; 8-9. &nbsp; super
+#### &nbsp; &nbsp; &nbsp; 8-2. &nbsp; 메소드
+#### &nbsp; &nbsp; &nbsp; 8-3. &nbsp; 상속과 다중상속
+#### &nbsp; &nbsp; &nbsp; 8-4. &nbsp; 메소드 오버라이딩
+#### &nbsp; &nbsp; &nbsp; 8-5. &nbsp; pass
+#### &nbsp; &nbsp; &nbsp; 8-6. &nbsp; super
 
 <br>
 
