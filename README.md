@@ -84,20 +84,23 @@
 
 <br>
 
-### 9. 예외처리
-#### &nbsp; &nbsp; &nbsp; 9-1. &nbsp; 예외처리
-#### &nbsp; &nbsp; &nbsp; 9-2. &nbsp; 에러 발생시키기
-#### &nbsp; &nbsp; &nbsp; 9-3. &nbsp; 사용자 정의 예외처리
-#### &nbsp; &nbsp; &nbsp; 9-4. &nbsp; finally
+### 9. [예외처리](./9)
+#### &nbsp; &nbsp; &nbsp; 9-1. &nbsp; [예외처리](9/practice1.py)
+#### &nbsp; &nbsp; &nbsp; 9-2. &nbsp; [에러 발생시키기](9/practice2.py)
+#### &nbsp; &nbsp; &nbsp; 9-3. &nbsp; [사용자 정의 예외처리](9/practice3.py)
+#### &nbsp; &nbsp; &nbsp; 9-4. &nbsp; [finally](9/practice4.py)
 
 <br>
 
-### 10. 모듈
-#### &nbsp; &nbsp; &nbsp; 10-1. &nbsp; 모듈
-#### &nbsp; &nbsp; &nbsp; 10-2. &nbsp; 패키지
-#### &nbsp; &nbsp; &nbsp; 10-3. &nbsp; _all_
-#### &nbsp; &nbsp; &nbsp; 10-4. &nbsp; 모듈 직접 실행
-#### &nbsp; &nbsp; &nbsp; 10-5. &nbsp; 패키지, 모듈 위치
-#### &nbsp; &nbsp; &nbsp; 10-6. &nbsp; pip install
-#### &nbsp; &nbsp; &nbsp; 10-7. &nbsp; 내장함수
-#### &nbsp; &nbsp; &nbsp; 10-8. &nbsp; 외장함수
+### 10. [모듈](./10)
+#### &nbsp; &nbsp; &nbsp; 10-1. &nbsp; [모듈](10/practice1.py)
+#### &nbsp; &nbsp; &nbsp; 10-2. &nbsp; [패키지](10/practice2.py)
+#### &nbsp; &nbsp; &nbsp; 10-3. &nbsp; [패키지와 모듈 위치](10/practice3.py)
+#### &nbsp; &nbsp; &nbsp; 10-4. &nbsp; [pip install](10/practice4.py)
+#### &nbsp; &nbsp; &nbsp; 10-5. &nbsp; [내장함수](10/practice5.py)
+#### &nbsp; &nbsp; &nbsp; 10-6. &nbsp; [외장함수](10/practice6.py)
+
+<br>
+
+## 참고 (Reference)
+##### &nbsp;&#127916; [나도코딩 - 파이썬 강의](https://youtu.be/kWiCuklohdY)
