@@ -74,13 +74,13 @@
 
 <br>
 
-### 8. 클래스
-#### &nbsp; &nbsp; &nbsp; 8-1. &nbsp; 클래스
-#### &nbsp; &nbsp; &nbsp; 8-2. &nbsp; 메소드
-#### &nbsp; &nbsp; &nbsp; 8-3. &nbsp; 상속과 다중상속
-#### &nbsp; &nbsp; &nbsp; 8-4. &nbsp; 메소드 오버라이딩
-#### &nbsp; &nbsp; &nbsp; 8-5. &nbsp; pass
-#### &nbsp; &nbsp; &nbsp; 8-6. &nbsp; super
+### 8. [클래스](./8)
+#### &nbsp; &nbsp; &nbsp; 8-1. &nbsp; [클래스](8/practice1.py)
+#### &nbsp; &nbsp; &nbsp; 8-2. &nbsp; [메소드](8/practice2.py)
+#### &nbsp; &nbsp; &nbsp; 8-3. &nbsp; [상속과 다중상속](8/practice3.py)
+#### &nbsp; &nbsp; &nbsp; 8-4. &nbsp; [메소드 오버라이딩](8/practice4.py)
+#### &nbsp; &nbsp; &nbsp; 8-5. &nbsp; [pass](8/practice5.py)
+#### &nbsp; &nbsp; &nbsp; 8-6. &nbsp; [super](8/practice6.py)
 
 <br>
 
